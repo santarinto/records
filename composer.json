@@ -1,0 +1,19 @@
+{
+    "name": "santarinto/records",
+    "description": "Simple Records Web App, just for needs",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Santarinto\\Records\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilya V Glazkov aka Santarinto",
+            "email": "santarinto@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
